@@ -1,70 +1,71 @@
-# Getting Started with Create React App
+# PoS Merchant Acquisition System
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Overview
 
-## Available Scripts
+The PoS (Point of Sale) Merchant Acquisition System is a web application designed to facilitate the onboarding of new PoS merchants and the management of existing merchant accounts for [Your Bank Name]. This application provides a seamless digital experience for both new and existing merchants, streamlining the process of applying for and managing PoS facilities.
 
-In the project directory, you can run:
+[PoS System Demo Deployment](https://mandy91.github.io/bankpos/)
 
-### `npm start`
+## Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **Bank Portal (Internal):** A secure portal accessible to bank staff (Branches, ROs, and HO) for processing PoS enrollment requests and managing merchant accounts.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **Public Portal:** A user-friendly public-facing portal for merchants to submit their requests and express their interest in obtaining PoS facilities from [Your Bank Name].
 
-### `npm test`
+- **Self On-boarding Process:** A step-by-step process for self-onboarding of PoS merchant establishments, including request submission, cost-benefit analysis, agreement execution, and tracking of installation status.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **Mobile Application (for Existing Merchants):** A cross-platform mobile app (iOS and Android) for existing merchants, offering account management features.
 
-### `npm run build`
+- **Internet Banking Portal (for Existing Merchants):** A web portal for existing merchants, accessible via internet banking, allowing them to apply for PoS facilities and manage their accounts.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **Web Portal (for Both Existing and New Merchants):** A web portal available to both existing and new merchants, offering PoS facility requests, account management, and access to personalized offers.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Technology Stack
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- **Frontend:**
+  - React.js for web portals
+  - React Native for the mobile application
+  - [Other technologies for styling, state management, etc.]
 
-### `npm run eject`
+- **Backend:**
+  - Node.js for backend services
+  - MySQL for the database
+  - [Other technologies for authentication, APIs, etc.]
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- **Deployment and Hosting:**
+  - Firebase Hosting (for web portals)
+  - [Other platforms for mobile app distribution]
+  
+## Installation
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+To run the project locally, follow these steps:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+1. Clone this repository to your local machine.
+   ```
+   git clone https://github.com/your-username/pos-merchant-acquisition.git
+   ```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+2. Navigate to the project directory.
+   ```
+   cd pos-merchant-acquisition
+   ```
 
-## Learn More
+3. Install dependencies.
+   ```
+   npm install
+   ```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+4. Start the development server.
+   ```
+   npm start
+   ```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+5. Open your web browser and access the application at `http://localhost:3000`.
 
-### Code Splitting
+## Usage
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- Register as a new merchant or log in if you are an existing merchant.
+- Follow the on-screen instructions to request PoS facilities, manage your account, and explore personalized offers.
+- Bank staff can access the internal portal to process merchant requests and manage accounts.
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+**Disclaimer:** This project is for demonstration purposes only and may not represent a real banking system. Any data used is fictional.
