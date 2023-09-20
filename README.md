@@ -1,6 +1,3 @@
-Certainly! Below is a template for a README.md file for your React project. You can customize it with your project-specific information:
-
-```markdown
 # PoS Merchant Acquisition System
 
 ## Overview
@@ -72,4 +69,3 @@ To run the project locally, follow these steps:
 - Bank staff can access the internal portal to process merchant requests and manage accounts.
 
 **Disclaimer:** This project is for demonstration purposes only and may not represent a real banking system. Any data used is fictional.
-```
