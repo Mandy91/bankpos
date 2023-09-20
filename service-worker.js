@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/bankpos/precache-manifest.b8b7e9e03a20f1b899144dd89e1d13f7.js"
+  "/bankpos/public/index.html/precache-manifest.b639435ad7bb86ab44dba06ac0f494c1.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/bankpos/index.html", {
+workbox.routing.registerNavigationRoute("/bankpos/public/index.html/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });

@@ -1,15 +1,15 @@
 {
-  "main.css": "/bankpos/static/css/main.9ffed260.chunk.css",
-  "main.js": "/bankpos/static/js/main.647b93e1.chunk.js",
-  "main.js.map": "/bankpos/static/js/main.647b93e1.chunk.js.map",
-  "static/js/1.f09d6da4.chunk.js": "/bankpos/static/js/1.f09d6da4.chunk.js",
-  "static/js/1.f09d6da4.chunk.js.map": "/bankpos/static/js/1.f09d6da4.chunk.js.map",
-  "static/js/2.8f906671.chunk.js": "/bankpos/static/js/2.8f906671.chunk.js",
-  "static/js/2.8f906671.chunk.js.map": "/bankpos/static/js/2.8f906671.chunk.js.map",
-  "runtime~main.js": "/bankpos/static/js/runtime~main.894bcf85.js",
-  "runtime~main.js.map": "/bankpos/static/js/runtime~main.894bcf85.js.map",
-  "static/css/main.9ffed260.chunk.css.map": "/bankpos/static/css/main.9ffed260.chunk.css.map",
-  "index.html": "/bankpos/index.html",
-  "precache-manifest.b8b7e9e03a20f1b899144dd89e1d13f7.js": "/bankpos/precache-manifest.b8b7e9e03a20f1b899144dd89e1d13f7.js",
-  "service-worker.js": "/bankpos/service-worker.js"
+  "main.css": "/bankpos/public/index.html/static/css/main.9ffed260.chunk.css",
+  "main.js": "/bankpos/public/index.html/static/js/main.647b93e1.chunk.js",
+  "main.js.map": "/bankpos/public/index.html/static/js/main.647b93e1.chunk.js.map",
+  "static/js/1.f09d6da4.chunk.js": "/bankpos/public/index.html/static/js/1.f09d6da4.chunk.js",
+  "static/js/1.f09d6da4.chunk.js.map": "/bankpos/public/index.html/static/js/1.f09d6da4.chunk.js.map",
+  "static/js/2.8f906671.chunk.js": "/bankpos/public/index.html/static/js/2.8f906671.chunk.js",
+  "static/js/2.8f906671.chunk.js.map": "/bankpos/public/index.html/static/js/2.8f906671.chunk.js.map",
+  "runtime~main.js": "/bankpos/public/index.html/static/js/runtime~main.f594ed96.js",
+  "runtime~main.js.map": "/bankpos/public/index.html/static/js/runtime~main.f594ed96.js.map",
+  "static/css/main.9ffed260.chunk.css.map": "/bankpos/public/index.html/static/css/main.9ffed260.chunk.css.map",
+  "index.html": "/bankpos/public/index.html/index.html",
+  "precache-manifest.b639435ad7bb86ab44dba06ac0f494c1.js": "/bankpos/public/index.html/precache-manifest.b639435ad7bb86ab44dba06ac0f494c1.js",
+  "service-worker.js": "/bankpos/public/index.html/service-worker.js"
 }
