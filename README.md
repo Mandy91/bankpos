@@ -4,7 +4,7 @@
 
 The PoS (Point of Sale) Merchant Acquisition System is a web application designed to facilitate the onboarding of new PoS merchants and the management of existing merchant accounts for [Your Bank Name]. This application provides a seamless digital experience for both new and existing merchants, streamlining the process of applying for and managing PoS facilities.
 
-[PoS System Screenshot](./screenshots/screenshot.png)
+[PoS System Demo Deployment](https://mandy91.github.io/bankpos/)
 
 ## Features
 
